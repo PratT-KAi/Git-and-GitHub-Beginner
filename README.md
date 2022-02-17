@@ -1,9 +1,5 @@
 # Bootcamp-DE
-Data Engineering Bootcamp.
+Data Engineering Bootcamp
 
-## Git commands
-git clone
-
-## Local devlopment
-
-git branch
+1. Git
+2. Python for Everybody
