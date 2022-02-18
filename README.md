@@ -8,7 +8,9 @@ with Konverge.AI
 ## Use of basic git commands
 1. git clone, git add, git commit, git push, git pull
 2. Branching and merging
-
+3. Resolvig merge conflicts
+4. Undoing in git
+5. Forking in git
 
 ---
 
